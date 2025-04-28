@@ -1,4 +1,4 @@
-AI-Powered Crop Disease Diagnosis & Yield Prediction
+## AI-Powered Crop Disease Diagnosis & Yield Prediction
 
 Overview
 
